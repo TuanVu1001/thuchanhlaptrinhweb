@@ -1,0 +1,25 @@
+.info table tr
+{
+	border:0;
+	border-bottom:3px solid black;	
+}
+.info table tr td
+{
+	padding-top: 2rem;
+}
+.info table tr .title
+{
+	width: 20%;
+}
+.info table tr .content
+{
+	width: 80%;
+}
+.info table tr .td_link
+{
+	text-align: center;
+}
+.info table tr .td_link a
+{
+	text-decoration: none;
+}
